@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer — professional debugger of my own code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Third-year+Informatics+student+at+RUAS;Turning+%22this+should+be+easy%22+into+3-hour+sagas;Making+sure+servers+don't+explode+(mostly);Looking+for+a+team+to+cause+problems+with" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+building+scalable+web+apps;Turning+%22this+should+be+easy%22+into+3-hour+sagas;Making+sure+servers+don't+explode+(mostly);Looking+for+a+team+to+cause+problems+with" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-I'm a third-year Informatics student at RUAS, driven by the intersection of clean code, scalable architecture, and making things work after 3 hours of *"this should be easy."*
+I'm a Full Stack Developer driven by the intersection of clean code, scalable architecture, and making things work after 3 hours of *"this should be easy."*
 
 Still reading? Alright, tryhard, I see you. Don't act like you're not judging every line. Or maybe you're procrastinating. Either way, welcome.
 
