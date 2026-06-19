@@ -18,7 +18,7 @@ I'm a Full Stack Developer driven by the intersection of clean code, scalable ar
 
 Still reading? Alright, tryhard, I see you. Don't act like you're not judging every line. Or maybe you're procrastinating. Either way, welcome.
 
-- 🔭 **Currently building:** a platform where anyone can register their own weather station and share live readings on an interactive global map
+- 🔭 **Currently building:** myself (still in beta, frequent updates, occasional breaking changes)
 - 🌱 **Currently sharpening:** backend architecture, clean OOP design, and unit testing
 - 🧯 **Side quest:** making sure servers do **not** explode (or at least not during business hours)
 - 🤝 **Looking for:** a team that'll let me cause problems and then teach me how to fix them
