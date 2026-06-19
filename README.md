@@ -31,19 +31,27 @@ Still reading? Alright, tryhard, I see you. Don't act like you're not judging ev
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,js,ts,py,php,mysql&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cs,js,ts,py,php,html,css&theme=dark" alt="Languages"/>
 
 <br/><br/>
 
 **Frameworks &amp; Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,dotnet&theme=dark" alt="Frameworks and libraries"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,dotnet,django&theme=dark" alt="Frameworks and libraries"/>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 
 <br/><br/>
 
 **Tools &amp; Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,raspberrypi&theme=dark" alt="Tools and platforms"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,raspberrypi&theme=dark" alt="Tools and platforms"/>
+<img src="https://img.shields.io/badge/ZenHub-6272A4?style=for-the-badge&logo=zenhub&logoColor=white" alt="ZenHub"/>
 
 </div>
 
