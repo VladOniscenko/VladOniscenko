@@ -66,7 +66,7 @@ My main goal is to figure out how the backend magic actually works and make sure
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladOniscenko&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VladOniscenko&theme=radical&hide_border=true" />
 </p>
 
 ---
