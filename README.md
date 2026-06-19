@@ -66,16 +66,27 @@ My main goal is to figure out how the backend magic actually works and make sure
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladOniscenko&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VladOniscenko&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-[Weather Station Network](https://github.com/VladOniscenko/Weather-Monitoring-Dashboard) - Network of standalone weather station colector
-[3D Webshop](https://github.com/VladOniscenko/3d-shop) - 3D Art Webshop
-[E-Commerce Webshop](https://github.com/VladOniscenko/ECommerce-Webshop) - E-Commerce Webshop
+<p align="center">
+  <a href="https://github.com/VladOniscenko/Weather-Monitoring-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VladOniscenko&repo=Weather-Monitoring-Dashboard&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/VladOniscenko/3d-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VladOniscenko&repo=3d-shop&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/VladOniscenko/ECommerce-Webshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VladOniscenko&repo=ECommerce-Webshop&theme=radical&hide_border=true" />
+  </a>
+</p>
+
 ---
 
 <p align="center"><i>If you read this far, let me know what you think — I expect a review, like any good piece of software.</i></p>
